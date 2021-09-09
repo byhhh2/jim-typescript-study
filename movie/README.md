@@ -26,4 +26,4 @@
 
 ###
 
-<img src="images/calculator.png" width="400" height="470">
+<img src="calculator.png" width="400" height="470">
