@@ -22,8 +22,8 @@
 
 ###
 
-- <a href="https://github.com/byhhh2/jim-typescript-study/tree/master/movie/practical/ts-react">계산기 만들기</a>
+- <a href="https://github.com/byhhh2/jim-typescript-study/tree/master/movie/practical/ts-react"> 계산기 만들기</a>
 
 ###
 
-<img src="calculator.png" width="400" height="470">
+<img src="https://user-images.githubusercontent.com/52737532/132757001-dc61f9e9-d41b-4d99-a7e3-b115d4d12a39.PNG" width="400" height="470">
